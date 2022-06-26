@@ -5,12 +5,18 @@
     width: 740px;
     height: 40px;
 }
+.search1{
+    margin-left: 15px;
+}
 .searchButton{
     width: 300px;
-    margin-left: 40px;
+    margin-left: 55px;
 }
 .searchButton2{
-    margin-left: 195px;
+    margin-left: 5px;
+}
+.lastUpdate{
+    width: 180px;
 }
 .cardsection{
     margin-top: 40px;
