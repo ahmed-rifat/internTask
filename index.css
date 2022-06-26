@@ -1,0 +1,40 @@
+.body{
+    background-color:wheat;
+}
+.searcharea{
+    width: 740px;
+    height: 40px;
+}
+.searchButton{
+    width: 300px;
+    margin-left: 40px;
+}
+.searchButton2{
+    margin-left: 195px;
+}
+.cardsection{
+    margin-top: 40px;
+}
+.card1{
+    height: 140px;
+    width: 240px;
+    background-color: aquamarine;
+
+}
+.card2{
+    height: 140px;
+    width: 240px;
+    background-color: cyan;
+
+}
+.card3{
+    height: 140px;
+    width: 240px;
+    background-color:cyan
+
+}
+.card4{
+    height: 140px;
+    width: 240px;
+    background-color: aquamarine;
+}
